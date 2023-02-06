@@ -1,14 +1,13 @@
-package com.example;
+package com.alibou.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class JwtAuthonticationApplication {
+public class SecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JwtAuthonticationApplication.class, args);
+		SpringApplication.run(SecurityApplication.class, args);
 	}
 
 }
