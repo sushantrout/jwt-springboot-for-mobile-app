@@ -1,0 +1,7 @@
+
+*.jar
+jwt-authontication/.mvn/wrapper/maven-wrapper.properties
+jwt-authontication/.mvn/wrapper/maven-wrapper.jar
+jwt-authontication/mvnw.cmd
+jwt-authontication/mvnw
+jwt-authontication/.mvn/wrapper/maven-wrapper.jar
